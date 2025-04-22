@@ -1,0 +1,6 @@
+Enter the emails you want to send updates to (in new lines)
+
+#Email 1
+#Email 2
+..
+..
